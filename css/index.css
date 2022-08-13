@@ -1,0 +1,211 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.div__1{
+    background-color: white;
+    padding: 15px;
+    
+}
+
+.logo{
+    font-size: 30px;
+     /* xoá gạch dưới  */
+    text-decoration: none;
+    margin-left: 150px;
+}
+.logo i {
+    /* phần khung của logo  */
+    width: 45px;
+    height: 45px;
+    border-radius: 50% ;
+    background-color: rgb(9, 9, 111);
+
+    /* phần logo  */
+    text-align: center;
+    line-height: 40px ;
+    font-size: 20px;
+    vertical-align: bottom;
+    color: rgb(174, 164, 28);
+    
+}
+.logo span{
+    color: black;
+    font-size: 40px;
+}
+.div__1 ul{
+    list-style: none;
+    margin: 25px;
+    margin-left: 150px;
+    
+}
+.div__1 li{
+    display: inline;
+    margin: 20px;
+}
+.div__1 a{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+} 
+
+/* Phần 2  */
+.div__2 img{
+height: 800px;
+width: 100%;
+background-size: cover;
+background-position: center;
+text-align: center;
+}
+
+/* Phần 3  */
+.div__3{
+    float: left;
+     margin: 20px;
+    padding: 40px;
+    /* text-align: center; */
+}
+.div__3 h3{
+    font-size: 25px;
+    /* border: 20px; */
+    text-align: left;
+    margin: 20px 0px;
+    
+}
+
+
+.div__3 button{
+    font-size: 18px;
+    background-color: rgb(224, 224, 59);
+    border-radius: 10px;
+    padding: 15px 30px;
+    cursor: pointer;
+    margin: 35px 0px;
+   
+}
+.div__3 button:hover{
+  background-color: rgb(224, 224, 59);
+  color: white;
+}
+
+.div__3n1 {
+    width: 500px;
+    /* width: 40%; */
+    text-align: left;
+    padding: 20px;
+    /* margin-left: 50px; */
+    float: left;
+}
+
+.div__3n2 {
+    width: 200px;
+    /* width: 40%; */
+    margin-left: 40px;
+    float: right;
+}
+
+/* PHẦN 4  */
+.div__4 {
+  clear:both;
+  padding: 20px 0px;
+  background-color: rgba(169, 163, 163, 0.483);
+  
+}
+
+ .div__n4 {
+    margin: auto;
+    width: 90%;
+    height: 60px;
+ }
+.div__4chu {
+  float: right;
+  
+ }
+
+.div__4so {
+   font-size: 50px;
+   display: inline;
+   margin-right: 10px;
+   width: 100px;
+}
+.div__4n1{
+    float: left;
+    margin-right: 90px ;
+    
+}
+
+.div__4n2 {
+    float: left;
+    margin-right: 90px
+}
+
+.div__4n3 {
+    float: left;
+    margin-right: 90px
+}
+
+.div__4n4 {
+    float: left;
+    margin-right: 90px
+    
+}
+
+/* phần 5  */
+
+.div__5{
+    padding: 20px 0;
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-right: 20px;
+    border-radius: 20px;
+
+}
+.div__n5{
+    margin: 100px;
+    width: 90%;
+}
+.logo__2 {
+    font-size: 50px;
+    color: white;
+   
+    }
+
+.div__nn5 {
+    background-color: rgb(5, 5, 118);
+    width: 80px;
+    height: 100px;
+    padding: 25px;
+    border-radius: 20px;
+    float: left;
+    
+}
+.div__nn6 {
+    background-color: rgb(5, 5, 118);
+    width: 80px;
+    height: 100px;
+    padding: 25px;
+    border-radius: 20px;
+    float: right;
+    
+}
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
